@@ -26,7 +26,7 @@ Run the sample:
 npm run start:dev
 ```
 
-You can find all the screenshots in the Email I sent back to Diana.
+You can find all the screenshots in the Email I sent back to Diane.
 
 I'm also attaching there a POSTMAN script ready to import and run.
 
